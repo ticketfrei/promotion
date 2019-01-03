@@ -30,10 +30,10 @@ Flyer
 
 ## Talk in alternative centers
 
-talk, maybe 15 minutes
+talk: https://github.com/ticketfrei/presentation
+* What is Ticketfreier ÖPNV & why is it good for everyone?
 * How does the bot work?
 * Why is this politically relevant, what is sousveillance?
-* What is Ticketfreier ÖPNV & why is it good for everyone?
 
 ## Ideas
 
