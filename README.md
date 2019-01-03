@@ -28,18 +28,23 @@ Flyer
 * 1 Flyer in high-polish VAG-Layout
 * 1 Flyer in DIY-Anarcho-Style
 
-Graffiti stencils
-
-## Video
-
-2-3 Minutes explaining video with Anonymous-Mask und cryptical language
-* Have fun with a greenscreen - a mask, floating through a populated subway
-
-Short video how to set up your own Ticketfrei bot
-
 ## Talk in alternative centers
 
 talk, maybe 15 minutes
 * How does the bot work?
 * Why is this politically relevant, what is sousveillance?
 * What is Ticketfreier ÖPNV & why is it good for everyone?
+
+## Ideas
+
+Graffiti stencils
+
+### Video
+
+2-3 Minutes explaining video with Anonymous-Mask und cryptical language
+* Have fun with a greenscreen - a mask, floating through a populated subway
+
+Short video how to set up your own Ticketfrei bot
+
+
+
