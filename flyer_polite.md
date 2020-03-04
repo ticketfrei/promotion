@@ -134,6 +134,11 @@ WENN
 DANN weil die
 VAG öffentlich ist
 
+WENN immer noch viele Leute mit dem
+AUTO in Nürnberg umher fahren,
+DANN nur, weil die
+VAG noch nicht kostenlos fährt.
+
 # Eine Zukunft ohne Ticketautomaten und Kontrolleure
 
 Ticketfrei ist nicht nur ein Ansatz für Userfreundlichkeit, es ist
