@@ -1,3 +1,36 @@
+# VAG satire
+
+# Blitzermelder für Kontrolettis - Überwache die Überwacher!
+
+**Mit einem neuen Social Media-Bot kann man Kontrolettis melden. Außerdem kann
+man sehen, wenn irgendwo gerade kontrolliert wird.**
+
+Busse und Bahnen, die für alle kostenlos sind, sind eine faszinierende Idee.
+Dann wären Kontrolettis plötzlich arbeitslos, Tarifzonen und Fahrausweise
+überflüssig, Ticket-Automaten abgeschaltet. Doch noch treiben die Kontis ihr
+Unwesen, und wir müssen ihnen ausweichen.
+
+Um herauszufinden, wo gerade Kontrolettis unterwegs sind, gibt es jetzt den
+"Ticketfrei Nürnberg" Bot. Viele Leute melden Kontrollen, wenn sie sie in der
+U-Bahn oder anderen Verkehrsmitteln sehen. Dadurch können andere die
+Kontrollen meiden.
+
+Mitmachen können alle - der Bot funktioniert für Telegram, Twitter, Mastodon,
+und sogar für E-Mail. Damit kann man jederzeit einen Report mit dem Smartphone
+schreiben. Man kann auch nachschauen, oder sogar Push-Benachrichtigungen
+kriegen, wenn es Kontrollen gibt.
+
+Damit wollen wir dass ÖPNV endlich für alle möglich wird. Zu viele
+Menschen können sich VAG-Tickets leider nicht leisten - gerade die,
+die ihre MobiCard am Ende des Monats kaufen, müssen oft zwischen der
+MobiCard und dem letzten Wocheneinkauf abwägen. Damit endlich alle
+Menschen in Nürnberg/Fürth/Erlangen U-Bahn fahren können, soll
+@nbg_ticketfrei ihnen helfen, Kontrollen zu vermeiden.
+
+[QR-Code]
+
+https://ticketfrei.links-tech.org/city/nbg
+
 # Neues Konzept für ein Sozialticket - wie können auch sie Ticketfrei fahren?
 
 Die VAG stellt ein neues Konzept als Alternative zu unerwünschten
